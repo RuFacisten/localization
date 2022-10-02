@@ -1,11 +1,11 @@
-no_permissions: '§cУ вас должна быть группа не меньше %group%'
-language_selected: '§fВаш язык успешно изменён на §aРусский!'
-player_not_online: '§cИгрока нет в сети'
-player_group_height: '§6§lRuFacisten §8| §cУ данного игрока группа выше вашей!'
-player_not_found: '§6§lRuFacisten §8| §cИгрок никогда ранее не играл на нашем проекте!'
+no_permissions: '§cYou must have a group of at least %group%'
+language_selected: '§fYour language successfully changed to §aEnglish!'
+player_not_online: '§cPlayer offline'
+player_group_height: '§6§lRuFacisten §8| §cThis player has a group higher than yours!'
+player_not_found: '§6§lRuFacisten §8| §cThe player has never played on our project before!'
 
 
 #==========================
-#    Команды из API
+#    API Commands
 #==========================
-client_crash_help: '§6§lRuFacisten §8§l| §fИспользуйте - §6/crash <ник>'
+client_crash_help: '§6§lRuFacisten §8§l| §fUsage - §6/crash <nick>'
