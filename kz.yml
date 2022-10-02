@@ -1,1 +1,11 @@
-no_permissions: '§cСізде кем емес топ болуы керек %group%'
+no_permissions: '§cСізде кем дегенде топ болуы керек %group%'
+language_selected: '§fТіліңіз келесіге сәтті өзгертілді §қазақ!'
+player_not_online: '§cОйыншы желіде емес'
+player_group_height: '§6§lRuFacisten §8| §cБұл ойыншының тобы сіздікінен жоғары!'
+player_not_found: '§6§lRuFacisten §8| §cОйыншы бұрын ешқашан біздің жобада ойнамаған!'
+
+
+#==========================
+#    Команды из API
+#==========================
+client_crash_help: '§6§lRuFacisten §8§l| §fҚолдану - §6/crash <ник>'
