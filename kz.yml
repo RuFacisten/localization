@@ -7,12 +7,12 @@ player_not_found: '§6§lRuFacisten §8| §cОйыншы бұрын ешқаша
 level_up_message:
   - ''
   - ''
-  - '          §b§kX§6§l НОВЫЙ УРОВЕНЬ §b§kX'
-  - '  §a▸ §fВы достигли §d%new_level% §fуровня!'
-  - '  §a▸ §fДо следующего необходимо §e%total_exp% §fопыта'
+  - '          §b§kX§6§l ЖАҢА ДЕҢГЕЙ §b§kX'
+  - '  §a▸ §fжеттіңіз §d%new_level% §fдеңгейі!'
+  - '  §a▸ §fКелесіге дейін §e%total_exp% §fтәжірибе'
   - ''
-level_up_title: '§a§l§kX§c§l УРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
-level_up_sub: '§fВы достигли §b%new_level% §fуровня'
+level_up_title: '§a§l§kX§c§l ДЕҢГЕЙГЕ ЖОҒАРТУ §a§l§kX§r'
+level_up_sub: '§fжеттіңіз §b%new_level% §fдеңгейі'
 
 #==========================
 #    Команды из API
