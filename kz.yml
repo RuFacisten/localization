@@ -4,6 +4,15 @@ player_not_online: '§cОйыншы желіде емес'
 player_group_height: '§6§lRuFacisten §8| §cБұл ойыншының тобы сіздікінен жоғары!'
 player_not_found: '§6§lRuFacisten §8| §cОйыншы бұрын ешқашан біздің жобада ойнамаған!'
 
+level_up_message:
+  - ''
+  - ''
+  - '          §b§kX§6§l НОВЫЙ УРОВЕНЬ §b§kX'
+  - '  §a▸ §fВы достигли §d%new_level% §fуровня!'
+  - '  §a▸ §fДо следующего необходимо §e%total_exp% §fопыта'
+  - ''
+level_up_title: '§a§l§kX§c§l УРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
+level_up_sub: '§fВы достигли §b%new_level% §fуровня'
 
 #==========================
 #    Команды из API
