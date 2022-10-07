@@ -4,6 +4,15 @@ player_not_online: '§cDer Player ist nicht online'
 player_group_height: '§6§lRuFacisten §8| §cDieser Spieler hat eine höhere Gruppe als du!'
 player_not_found: '§6§lRuFacisten §8| §cDer Spieler hat noch nie auf unserem Projekt gespielt!'
 
+level_up_message:
+  - ''
+  - ''
+  - '          §b§kX§6§l NEUES LEVEL §b§kX'
+  - '  §a▸ §fdu hast erreicht §d%new_level% §flevel!'
+  - '  §a▸ §fBis zum nächsten §e%total_exp% §fErfahrung'
+  - ''
+level_up_title: '§a§l§kX§c§l AUFLEVELN §a§l§kX§r'
+level_up_sub: '§fdu hast erreicht §b%new_level% §flevel'
 
 #==========================
 #    Команды из API
