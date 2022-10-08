@@ -17,3 +17,4 @@ level_up_sub: '§fВы достигли §b%new_level% §fуровня'
 #    Команды из API
 #==========================
 client_crash_help: '§6§lRuFacisten §8§l| §fИспользуйте - §6/crash <ник>'
+stats_npc: '§6§lRuFacisten §8§l| §fДля просмотра статистика нажмите ПКМ по NPC'
