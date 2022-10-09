@@ -1,4 +1,4 @@
-no_permissions: '§cУ вас должна быть группа не меньше %group%'
+no_perm: '§cУ вас должна быть группа не меньше %group%'
 language_selected: '§fВаш язык успешно изменён на §aРусский!'
 player_not_online: '§cИгрока нет в сети'
 player_group_height: '§6§lRuFacisten §8| §cУ данного игрока группа выше вашей!'
